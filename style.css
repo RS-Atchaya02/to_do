@@ -1,0 +1,39 @@
+body
+{
+  background-color: #DEB;
+  font-family: ,'Arial Narrow', sans-serif;
+  text-align : center;
+}
+#word
+{
+    font-family:'Times New Roman';
+    color: red;
+    text-align: center;
+}
+#box
+{
+  text-align: center;
+  margin-right: 20px;
+  width: 150px;
+  height: 20px;
+  box-sizing: border-box;
+}
+#enter
+{
+  background-color: #0ef678;
+  border: blue;
+  padding: 2px 3px;
+  text-align: left;
+  font-size: 13px;
+  margin: 2px 1px;
+  cursor: pointer;
+}
+#enter:hover 
+{
+background-color: #bbb;
+}
+#show
+{
+  text-align: left;
+  color: blue;
+}
